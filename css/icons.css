@@ -1,0 +1,12 @@
+/* Inline SVG icons (no external FontAwesome) */
+.icon-svg {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+}
+.icon-svg.search { width: 22px; height: 22px; }
+.addedToCart .icon-svg { font-size: 1.5em; }
+.userIcon .icon-svg { width: 45px; height: 45px; }
+#orderContainer .icon-svg { width: 80px; height: 80px; color: #22c55e; }
